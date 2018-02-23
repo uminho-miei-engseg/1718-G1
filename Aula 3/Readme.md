@@ -10,8 +10,9 @@
 
 ## Experiência 2.1
 
-### [Governo Português](scans/governo.pdf)
+### Governo Português
 
+- [Scan SSL](scans/governo.pdf)
 - Resultado do teste online: https://www.ssllabs.com/ssltest/analyze.html?d=www.portugal.gov.pt
 
     ![alt text](imgs/governo.png "Scan do site do Governo Português")
@@ -19,30 +20,33 @@
 ## Pergunta 2.1 - Universidades Portuguesas
 Abaixo encontram-se os scans SSL de quatro Universidades Portuguesas escolhidas.
 
-### A) [Universidade de Aveiro](scans/uni_aveiro.pdf)
+### A) Universidade de Aveiro
 
+- [Scan SSL](scans/uni_aveiro.pdf)
 - Resultado do teste online: https://www.ssllabs.com/ssltest/analyze.html?d=www.ua.pt
 
     ![alt text](imgs/uaveiro.png "Scan do site da Universidade de Averio")
 
 
-### B) [Universidade Beira Interior](scans/uni_beira_interior.pdf)
+### B) Universidade Beira Interior
 
+- [Scan SSL](scans/uni_beira_interior.pdf)
 - Resultado do teste online: https://www.ssllabs.com/ssltest/analyze.html?d=www.ubi.pt
 
     ![alt text](imgs/ubeirainterior.png "Scan do site da Universidade Beira Interior")
 
 
-### C) [Universidade de Coimbra](scans/uni_coimbra.pdf)
+### C) Universidade de Coimbra
 
+-[Scan SSL](scans/uni_coimbra.pdf)
 - Resultado do teste online: https://www.ssllabs.com/ssltest/analyze.html?d=www.uc.pt
 
     ![alt text](imgs/ucoimbra.png "Scan do site da Universidade de Coimbra")
 
 
-### D) [Universidade do Minho](scans/uni_minho.pdf)
+### D) Universidade do Minho
 
-
+- [Scan SSL](scans/uni_minho.pdf)
 - Resultado do teste online: https://www.ssllabs.com/ssltest/analyze.html?d=www.uminho.pt
 
     ![alt text](imgs/uminho.png "Scan do site da Universidade do Minho")
