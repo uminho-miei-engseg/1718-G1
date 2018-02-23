@@ -82,7 +82,7 @@ Abaixo encontram-se os scans SSL de quatro Universidades Portuguesas escolhidas.
 
 - #### Universidade de Aveiro: 
 
-    1. **Resultados do ssh-audit:** [lars.mec.ua.pt.txt](ssh-audit\lars.mec.ua.pt.txt)
+    1. **Resultados do ssh-audit:** [lars.mec.ua.pt.txt](ssh-audit/lars.mec.ua.pt.txt)
     2. **Software e versão utilizada:** Apache/2.4.7 (Ubuntu)
     3. **Versões de software com mais vulnerabilidades:** Versão de 2017 (217 vulnerabilidades) - 2.4
     4. **Qual tem a vulnerabilidade mais grave?:** Existem várias versões com vulnerabilidades com pontuação 10.0. A mais recente foi descoberta a 2017-11-14, CVE-2017-12635 (https://www.cvedetails.com/cve/CVE-2017-12635/)
@@ -91,7 +91,7 @@ Abaixo encontram-se os scans SSL de quatro Universidades Portuguesas escolhidas.
 
 - #### Universidade do Minho: 
 
-    1. **Resultados do ssh-audit:** [prova.di.uminho.pt.txt](ssh-audit\prova.di.uminho.pt.txt)
+    1. **Resultados do ssh-audit:** [prova.di.uminho.pt.txt](ssh-audit/prova.di.uminho.pt.txt)
     2. **Software e versão utilizada:** Cherokee/1.2.101 (Debian GNU/Linux)
     3. **Versões de software com mais vulnerabilidades:** As versões de 2001 e 2004 possuem ambos 2 vulnerabilidades, sendo estas as que têm mais.
     4. **Qual tem a vulnerabilidade mais grave?:** A versão que tem a vulnerabilidade mais grave é a de 2005, com pontuação 10.0. Descoberta em 2005-01-10, CVE-2004-1097 (https://www.cvedetails.com/cve/CVE-2004-1097/)
