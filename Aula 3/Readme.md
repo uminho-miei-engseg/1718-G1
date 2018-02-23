@@ -10,42 +10,42 @@
 
 ## Experiência 2.1
 
-### [Governo Português](scans\www.portugal.gov.pt.pdf)
+### [Governo Português](scans/www.portugal.gov.pt.pdf)
 
 - Resultado do teste online: https://www.ssllabs.com/ssltest/analyze.html?d=www.portugal.gov.pt
 
-    ![alt text](imgs\governo.png "Scan do site do Governo Português")
+    ![alt text](imgs/governo.png "Scan do site do Governo Português")
 
 ## Pergunta 2.1 - Universidades Portuguesas
 Abaixo encontram-se os scans SSL de quatro Universidades Portuguesas escolhidas.
 
-### A) [Universidade de Aveiro](scans\uni_aveiro.pdf)
+### A) [Universidade de Aveiro](scans/uni_aveiro.pdf)
 
 - Resultado do teste online: https://www.ssllabs.com/ssltest/analyze.html?d=www.ua.pt
 
-    ![alt text](imgs\uaveiro.png "Scan do site da Universidade de Averio")
+    ![alt text](imgs/uaveiro.png "Scan do site da Universidade de Averio")
 
 
-### B) [Universidade Beira Interior](scans\uni_beira_interior.pdf)
+### B) [Universidade Beira Interior](scans/uni_beira_interior.pdf)
 
 - Resultado do teste online: https://www.ssllabs.com/ssltest/analyze.html?d=www.ubi.pt
 
-    ![alt text](imgs\ubeirainterior.png "Scan do site da Universidade Beira Interior")
+    ![alt text](imgs/ubeirainterior.png "Scan do site da Universidade Beira Interior")
 
 
-### C) [Universidade de Coimbra](scans\uni_coimbra.pdf)
+### C) [Universidade de Coimbra](scans/uni_coimbra.pdf)
 
 - Resultado do teste online: https://www.ssllabs.com/ssltest/analyze.html?d=www.uc.pt
 
-    ![alt text](imgs\ucoimbra.png "Scan do site da Universidade de Coimbra")
+    ![alt text](imgs/ucoimbra.png "Scan do site da Universidade de Coimbra")
 
 
-### D) [Universidade do Minho](scans\uni_minho.pdf)
+### D) [Universidade do Minho](scans/uni_minho.pdf)
 
 
 - Resultado do teste online: https://www.ssllabs.com/ssltest/analyze.html?d=www.uminho.pt
 
-    ![alt text](imgs\uminho.png "Scan do site da Universidade do Minho")
+    ![alt text](imgs/uminho.png "Scan do site da Universidade do Minho")
 
 - O site com pior rating é o site da Universidade do Minho (www.uminho.pt) com um rating F.
 
