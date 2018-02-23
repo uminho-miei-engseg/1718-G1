@@ -38,7 +38,7 @@ Abaixo encontram-se os scans SSL de quatro Universidades Portuguesas escolhidas.
 
 ### C) Universidade de Coimbra
 
--[Scan SSL](scans/uni_coimbra.pdf)
+- [Scan SSL](scans/uni_coimbra.pdf)
 - Resultado do teste online: https://www.ssllabs.com/ssltest/analyze.html?d=www.uc.pt
 
     ![alt text](imgs/ucoimbra.png "Scan do site da Universidade de Coimbra")
