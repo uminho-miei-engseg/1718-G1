@@ -2,7 +2,6 @@
 
 ## Pergunta 1.1
 
-
 <br>
 <br>
 
@@ -10,61 +9,55 @@
 
 ## Experiência 2.1
 
-### [Governo Português](scans\www.portugal.gov.pt.pdf)
+### Governo Português
 
-- Resultado do teste online: https://www.ssllabs.com/ssltest/analyze.html?d=www.portugal.gov.pt
-
-    ![alt text](imgs\governo.png "Scan do site do Governo Português")
+[Scan](scans\www.portugal.gov.pt.pdf)
+Resultado do teste online: https://www.ssllabs.com/ssltest/analyze.html?d=www.portugal.gov.pt
+![alt text](imgs\governo.png "Scan do site do Governo Português")
 
 ## Pergunta 2.1 - Universidades Portuguesas
 Abaixo encontram-se os scans SSL de quatro Universidades Portuguesas escolhidas.
 
-### A) [Universidade de Aveiro](scans\uni_aveiro.pdf)
+### A) Universidade de Aveiro
 
-- Resultado do teste online: https://www.ssllabs.com/ssltest/analyze.html?d=www.ua.pt
+[Scan](scans\uni_aveiro.pdf)
+Resultado do teste online: https://www.ssllabs.com/ssltest/analyze.html?d=www.ua.pt
+![alt text](imgs\uaveiro.png "Scan do site da Universidade de Averio")
 
-    ![alt text](imgs\uaveiro.png "Scan do site da Universidade de Averio")
+### B) Universidade Beira Interior
 
+[Scan](scans\uni_beira_interior.pdf)
+Resultado do teste online: https://www.ssllabs.com/ssltest/analyze.html?d=www.ubi.pt
+![alt text](imgs\ubeirainterior.png "Scan do site da Universidade Beira Interior")
 
-### B) [Universidade Beira Interior](scans\uni_beira_interior.pdf)
+### C) Universidade de Coimbra
 
-- Resultado do teste online: https://www.ssllabs.com/ssltest/analyze.html?d=www.ubi.pt
+[Scan](scans\uni_coimbra.pdf)
+Resultado do teste online: https://www.ssllabs.com/ssltest/analyze.html?d=www.uc.pt
+![alt text](imgs\ucoimbra.png "Scan do site da Universidade de Coimbra")
 
-    ![alt text](imgs\ubeirainterior.png "Scan do site da Universidade Beira Interior")
+### D) Universidade do Minho
 
+[Scan](scans\uni_minho.pdf)
+**i.** Resultado do teste online: https://www.ssllabs.com/ssltest/analyze.html?d=www.uminho.pt
+![alt text](imgs\uminho.png "Scan do site da Universidade do Minho")
 
-### C) [Universidade de Coimbra](scans\uni_coimbra.pdf)
+**ii.** O site com pior rating é o site da Universidade do Minho (www.uminho.pt) com um rating F.
+São apresentados 4 comentários relativamente à sua segurança:
+- "This server is vulnerable to the POODLE attack. If possible, disable SSL 3 to mitigate. Grade capped to C."
+- "This server is vulnerable to MITM attacks because it supports insecure renegotiation. Grade set to F."
+- "This server supports weak Diffie-Hellman (DH) key exchange parameters. Grade capped to B."
+- "This server accepts RC4 cipher, but only with older protocols. Grade capped to B."
 
-- Resultado do teste online: https://www.ssllabs.com/ssltest/analyze.html?d=www.uc.pt
+É possível ver que o site está sujeito a dois tipos de ataques: ataques Man-in-the-middle e ataques POODLE (Padding Oracle On Downgraded Legacy Encryption que são um exploit Man-in-the-middle). Ambos são ataques perigosos uma vez que põe em causa dados existentes no site (incluindo dados de alunos e professores).
 
-    ![alt text](imgs\ucoimbra.png "Scan do site da Universidade de Coimbra")
+Os parâmetros relativos ao acordo de chaves Diffie-Hellman também são fracos, dando possibilidade a que ataques Logjam ocorram, compromentendo a segurança do site.
 
+Também usa a cifra RC4 apenas suportando protocolos antigos o que leva a vulnarabilidades que já podem ter sido resolvidas com protocolos mais recentes.
 
-### D) [Universidade do Minho](scans\uni_minho.pdf)
+Todos estes fatores contribuem para o rating final.
 
-
-- Resultado do teste online: https://www.ssllabs.com/ssltest/analyze.html?d=www.uminho.pt
-
-    ![alt text](imgs\uminho.png "Scan do site da Universidade do Minho")
-
-- O site com pior rating é o site da Universidade do Minho (www.uminho.pt) com um rating F.
-
-    São apresentados 4 comentários relativamente à sua segurança:
-
-    - "This server is vulnerable to the POODLE attack. If possible, disable SSL 3 to mitigate. Grade capped to C."
-    - "This server is vulnerable to MITM attacks because it supports insecure renegotiation. Grade set to F."
-    - "This server supports weak Diffie-Hellman (DH) key exchange parameters. Grade capped to B."
-    - "This server accepts RC4 cipher, but only with older protocols. Grade capped to B."
-
-    É possível ver que o site está sujeito a dois tipos de ataques: ataques Man-in-the-middle e ataques POODLE (Padding Oracle On Downgraded Legacy Encryption que são um exploit Man-in-the-middle). Ambos são ataques perigosos uma vez que põe em causa dados existentes no site (incluindo dados de alunos e professores).
-
-    Os parâmetros relativos ao acordo de chaves Diffie-Hellman também são fracos, dando possibilidade a que ataques Logjam ocorram, compromentendo a segurança do site.
-
-    Também usa a cifra RC4 apenas suportando protocolos antigos o que leva a vulnarabilidades que já podem ter sido resolvidas com protocolos mais recentes.
-
-    Todos estes fatores contribuem para o rating final.
-
-- SNI (Server Name Indication) é uma extensão ao protocolo TLS onde o cliente indica o hostname a que se está a tentar conectar no início da fase de handshake.
+**iii.** SNI (Server Name Indication) é uma extensão ao protocolo TLS onde o cliente indica o hostname a que se está a tentar conectar no início da fase de handshake.
 
     Em termos práticos, permite que um servidor distribua vários certificados através do mesmo endereço IP e através da mesma porta, permitindo que o mesmo distribua várias páginas HTTPS com certificados diferentes.
 
