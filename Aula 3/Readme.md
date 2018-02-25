@@ -1,8 +1,6 @@
 # 1. Assinaturas cegas (Blind signatures) baseadas no Elliptic Curve Discrete Logarithm Problem (ECDLP)
 
-## Pergunta 1.1
-
-[Pergunta 1](Pergunta1)
+## [Pergunta 1.1](Pergunta1)
 
 <br>
 <br>
