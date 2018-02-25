@@ -2,7 +2,7 @@
 
 ## Pergunta 1.1
 
-[Pergunta 1](/Pergunta 1/)
+[Pergunta 1](Pergunta1)
 
 <br>
 <br>
