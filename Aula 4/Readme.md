@@ -36,8 +36,6 @@
         ![alt text](imgs/4.png "IP final (igual ao inicial)")
 
 
-<br/>
-
 ## Pergunta 1.1
 
 Para aceder a alguns sites nos EUA tem que estar localizado nos EUA.
