@@ -50,7 +50,7 @@ Para aceder a alguns sites nos EUA tem que estar localizado nos EUA.
 
     O protocolo associado ao TOR rege-se pelo anonimato ponto-a-ponto. Isto é, não é possível provar a localização de um terminal. As localizações são normalmente aleatórias, não sendo atribuída uma em específico. São sempre fictícias.
     
-    (**FONTE: https://pt.wikipedia.org/wiki/Tor_(rede_de_anonimato)**)
+    **(FONTE: https://pt.wikipedia.org/wiki/Tor_(rede_de_anonimato))**
 
 
 ## Pergunta 1.2
