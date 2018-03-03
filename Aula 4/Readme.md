@@ -61,7 +61,7 @@ Para aceder a alguns sites nos EUA tem que estar localizado nos EUA.
 
     ![alt text](imgs/6.png "Segundo website")
 
-Os 6 saltos garantem o anonimato ponto-a-ponto. O "rendezvous points", permitem que os utilizadores se conectem aos serviços Onion, anteriormente conhecidos como serviços ocultos, sem que cada um conheça a identidade da rede do outro.
-Os vários saltos, permitem que cada um tenha conecimento de metade do percurso e os *relay* garantem que o utilizador não tenha qualquer conhecimento desse mesmo circuito, mostrando uma vez mais a existência de anonimato.
+Os 6 saltos garantem o anonimato ponto-a-ponto. Os "rendezvous points", permitem que os utilizadores se conectem aos serviços Onion, anteriormente conhecidos como serviços ocultos, sem que cada um conheça a identidade da rede do outro.
+Nos vários saltos, cada nó apenas "conhece" metade do percurso e os *relay* garantem que o utilizador não tenha qualquer conhecimento desse mesmo circuito, mostrando uma vez mais a existência de anonimato.
 
 **(FONTE: https://www.torproject.org/docs/onion-services.html.en, https://www.torproject.org/about/overview.html.en)**
