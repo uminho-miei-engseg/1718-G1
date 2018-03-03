@@ -44,7 +44,7 @@ Para aceder a alguns sites nos EUA tem que estar localizado nos EUA.
 
 1. Efetuando o comando ```sudo anonsurf start``` consegue garantir que está localizado nos EUA?
 
-    Não, não épossível garantí-lo.
+    Não, não é possível garantí-lo.
 
 2. Porquê? Utilize características do protocolo TOR para justificar.
 
