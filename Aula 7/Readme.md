@@ -1,4 +1,4 @@
-# 1. RGPD (Regulamento Geral de Proteção de Dados
+# 1. RGPD (Regulamento Geral de Proteção de Dados)
 
 ## Pergunta 1.1
 
