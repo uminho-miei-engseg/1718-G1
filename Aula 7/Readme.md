@@ -6,7 +6,7 @@
 
 - Os dados não devem ser forjados. No desenvolvimento de um software, os dados que um utilizador submete não devem ser alterados.
 
-- Os dados pessoais apenas devem ser utilizados nas finalidades para as quais os mesmos foram "autorizados". Isto é, os dados que são armazenados numa base de dados, por exemplo, apenas devem ser utilizados para o fim a que são destinados. Se um utilizador partilhar o seu email, para um login, este não deve ser utilizado para mais nada.
+- As informações pessoais apenas devem ser utilizados nas finalidades para as quais os mesmos foram "autorizados". Isto é, os dados que são armazenados numa base de dados, por exemplo, apenas devem ser utilizados para o fim a que são destinados. Se um utilizador partilhar o seu email, para um login, este não deve ser utilizado para mais nada.
 
     Contudo, podem ser utilizados para fins de arquivo de interesse público, fins de investigação científica ou histórica ou para fins estatísticos, uma vez que de acordo com o artigo 89º nº1, não são incompatíveis com a finalidade inicial para qual os dados pessoais do titular foram obtidos.
 
