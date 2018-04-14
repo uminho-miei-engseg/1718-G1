@@ -14,14 +14,14 @@ Estima-se que  qualquer pacote de software tem uma média de 5 a 50 bugs por cad
 
 ### 1. Número de Bugs
 
-- Limite inferior
+- Limite inferior (5 bugs por cada 1000 SLOC)
 
     - **Facebook -** 305 000
     - **Software de automóveis -** 500 000
     - **Linux 3.1 -** 75 000
     - **Serviços a Google -** 10 000 000
 
-- Limite superior
+- Limite superior (50 bugs por cada 1000 SLOC)
 
     - **Facebook -** 3 050 000
     - **Software de automóveis -** 5 000 000
