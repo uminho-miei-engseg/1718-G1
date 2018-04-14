@@ -46,7 +46,7 @@ Vulnerabilidade é definida como uma condição que, quando explorada por um ata
 
 As vulnerabilidades podem ser classificadas em 3 categorias, **Projeto**, **Codificação** e **Operacional**.
 
-- **Vulnerabilidade de projeto** são introduzidas durante a fase de projeto do software (obtenção de requisitos e desenho). Estes tipos de vulnerabilidades são catalogados como **CVE (Common Vulnerabilities and Exposures)**.
+- **Vulnerabilidades de projeto** são introduzidas durante a fase de projeto do software (obtenção de requisitos e desenho). Estes tipos de vulnerabilidades são catalogados como **CVE (Common Vulnerabilities and Exposures)**.
 
     - **CVE-2016-1960**
         - **Mozilla Firefox < 45.0 - 'nsHtml5TreeBuilder' Use-After-Free (EMET 5.52 Bypass)**
@@ -67,7 +67,7 @@ As vulnerabilidades podem ser classificadas em 3 categorias, **Projeto**, **Codi
 
 <br/>
 
-- **Vulnerabilidade de codificação** são introduzidas durante a programação do software, como por exemplo, um bug com implicações de segurança. Assim como as anteriores, estas vulnerabilidades são também catalogadas como **CVE (Common Vulnerabilities and Exposures)**.
+- **Vulnerabilidades de codificação** são introduzidas durante a programação do software, como por exemplo, um bug com implicações de segurança. Assim como as anteriores, estas vulnerabilidades são também catalogadas como **CVE (Common Vulnerabilities and Exposures)**.
 
     - **CVE-2016-5537**
         - **Oracle Netbeans IDE 8.1 - Directory Traversal**
@@ -85,7 +85,7 @@ As vulnerabilidades podem ser classificadas em 3 categorias, **Projeto**, **Codi
 
 <br/>
 
-- **Vulnerabilidade operacional** são causadas pelo ambiente no qual o software é executado ou pela sua configuração. Estas são catalogadas como **CCE (Common Configuration Enumeration)**.
+- **Vulnerabilidades operacionais** são causadas pelo ambiente no qual o software é executado ou pela sua configuração. Estas são catalogadas como **CCE (Common Configuration Enumeration)**.
 
 
     - **Windows 7**
