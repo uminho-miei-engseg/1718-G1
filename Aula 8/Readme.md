@@ -44,7 +44,7 @@ Vulnerabilidade é definida como uma condição que, quando explorada por um ata
 
 **Fonte: https://pt.wikipedia.org/wiki/Vulnerabilidade_(computa%C3%A7%C3%A3o)**
 
-As vulnerabilidades podem ser classificadas em 3 categorias, projeto, codificação e operacional.
+As vulnerabilidades podem ser classificadas em 3 categorias, **Projeto**, **Codificação** e **Operacional**.
 
 - **Vulnerabilidade de projeto** são introduzidas durante a fase de projeto do software (obtenção de requisitos e desenho). Estes tipos de vulnerabilidades são catalogados como **CVE (Common Vulnerabilities and Exposures)**.
 
