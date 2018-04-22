@@ -31,7 +31,7 @@ A fase do Modelo em Cascata em que deve ser levada em linha de conta o regulamen
 
 ## Pergunta 2.2
 
-Assim como o Modelo em Cascata, no modelo *Microsoft Security Development Lifecycle*, a fase em deve ser levada em linha de conta o regulamento europeu RGPD é a **Fase de Requisitos**.
+Assim como o Modelo em Cascata, no modelo *Microsoft Security Development Lifecycle*, a fase em que deve ser levada em linha de conta o regulamento europeu RGPD é a **Fase de Requisitos**.
 
 ## Pergunta 2.3
 
