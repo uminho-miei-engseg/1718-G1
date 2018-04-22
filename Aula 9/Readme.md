@@ -27,7 +27,7 @@ Existem 2 formas de avaliar o grau de risco de cada um.
 
 ## Pergunta 2.1
 
-A fase do Modelo em Cascata em que deve ser levada em linha de conta o regulamento europeu RGPD é a **Fase de Requisitos**, pois nesta fase os requisitos de segurança devem tem por base a legislação em vigor, e as recomendações e normas internacionais, conforme sejam aplicáveis, devendo ser traduzidos em requesitos eepecíficos para o software a desenvolver.
+A fase do Modelo em Cascata em que deve ser levada em linha de conta o regulamento europeu RGPD é a **Fase de Requisitos**, pois nesta fase os requisitos de segurança devem tem por base a legislação em vigor, e as recomendações e normas internacionais, conforme sejam aplicáveis, devendo ser traduzidos em requesitos específicos para o software a desenvolver.
 
 ## Pergunta 2.2
 
