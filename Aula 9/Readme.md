@@ -1,5 +1,3 @@
-<span style="text-align: justify;">
-
 # 1. Risco
 
 ## Pergunta 1.1
@@ -40,5 +38,3 @@ Assim como o Modelo em Cascata, no modelo *Microsoft Security Development Lifecy
 1. O regulamento europeu RGPD deve ser levada em linha de conta na função de negócio **Governance**, na prática de segurança **Policy & Compliance**, e na atividade no **Nível 1** do modelo de maturidade do SAMM.
 
 2. O nível de maturidade de segurança em que a empresa tem de estar, para levar em conta o regulamento europeu RGPD nos seus projetos é o **Nível 3**, pois neste nível requer-se que toda a equipa de desenvolvedores provem que tenham um conhecimento da segurança.
-
-</span>
