@@ -1,4 +1,4 @@
-<div style="text-align: justify">
+<p style='text-align: justify;'>
 
 # 1. Risco
 
@@ -41,4 +41,4 @@ Assim como o Modelo em Cascata, no modelo *Microsoft Security Development Lifecy
 
 2. O nível de maturidade de segurança em que a empresa tem de estar, para levar em conta o regulamento europeu RGPD nos seus projetos é o **Nível 3**, pois neste nível requer-se que toda a equipa de desenvolvedores provem que tenham um conhecimento da segurança.
 
-</div>
+</p>
