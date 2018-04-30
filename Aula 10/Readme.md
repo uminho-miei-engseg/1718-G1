@@ -7,7 +7,7 @@ A imagem abaixo ilustra o output o comando `size` para cada um dos ficheiros.
 
 ![alt text](img/size.png "Output do comando size para cada ficheiro")
 
-A tabela abaixo mostra os valores nos vários segmentos de texto, dados e bss de cada um dos ficheiros.
+A tabela abaixo mostra os valores nos vários segmentos de `texto`, `dados` e `bss` de cada um dos ficheiros.
 
 |           | size1.c | size2.c | size3.c | size4.c | size5.c |
 |-----------|---------|---------|---------|---------|---------|
